@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Q727635HJ4.com.eolluga.eollugage",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "Q727635HJ4.com.eolluga.eollugage"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "Q727635HJ4.com.eolluga.eollugage"
+    ]
+  }
+}
